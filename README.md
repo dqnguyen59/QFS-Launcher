@@ -12,36 +12,6 @@ This is a launcher for Quantum Field Simulator.
 
 Source code of these binaries can be found at <a href="https://github.com/dqnguyen59/QuantumFieldSimulator">https://github.com/dqnguyen59/QuantumFieldSimulator</a>.</br>
 
-
-## Introduction
-This source code simulates the quantum field theory.
-Inititially it was developed to simulate the double slit experiment.
-It uses a simple motion formula to simulate the light wave.
-By defining the slits in the simulator, the interference patterns can be simulated.
-Even walls/mirrors can be defined freely in 3D quantum field.
-There are also other files to simulate, for example rain drops or detecting the speed of light.
-This simulator does not approximate the real world values, but rather simulates the properties of the light wave due to a lack of CPU/GPU power.
-
-I am not claiming that this is THE quantum field theory, but it should only be used for educational purposes to understand the concept of quantum field theory.
-
-<p>The game library engine <a href="https://github.com/LWJGL/lwjgl3/releases" target="_blank">LWJGL</a> is used to draw the field in 3D.</p>
-
-### Sample files:
-* double_slit.qfs
-* rain.qfs
-* test_speed_of_light.qfs
-
-### Compilation
-* IDE: Eclipse
-* Compiler: Java 1.8
-
-<p>Download the project to any folder. Then from the File menu in Eclipse click on "open Projects from File System..." and import the downloaded project folder.</p>
-<p>Find the file Main.java and run.</p>
-<p>Make sure you have Java 8 installed. JDK 8 or later is recommended.</p>
-
-<b>Mac users:</b></br>
-VM arguments "-XstartOnFirstThread" needs to be added in Eclipse.
-
 ### CPU & GPU Performance for comparison
 * OS: Ubuntu 20.04.5 LTS
 * Processor: AMD Ryzen 9 3950x 16-core processor × 32 
