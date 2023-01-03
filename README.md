@@ -1,5 +1,15 @@
 # Launcher for Quantum Field Simulator
 
+### Download binary files
+| Platform | file          |
+|----------|---------------|
+| Windows  | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Windows-v1.19.zip">QuantumFieldSimulator-Windows-v1.19.zip</a> |
+| MacOS    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-MacOS-v1.19.zip">QuantumFieldSimulator-MacOS-v1.19.zip</a> |
+| Linux    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Linux-v1.19.zip">QuantumFieldSimulator-Linux-v1.19.zip</a> |
+
+Source code can be found here <a href="https://github.com/dqnguyen59/QuantumFieldSimulator">https://github.com/dqnguyen59/QuantumFieldSimulator</a>.</br>
+
+
 ## Introduction
 This source code simulates the quantum field theory.
 Inititially it was developed to simulate the double slit experiment.
@@ -44,16 +54,6 @@ VM arguments "-XstartOnFirstThread" needs to be added in Eclipse.
   Use of equivalent or more powerful hardware is recommended.</br>
   Recommended NVIDIA graphics cards: RTX2080Ti, RTX3070 or higher.
 </p>
-
-### Download binary files
-| Platform | file          |
-|----------|---------------|
-| Windows  | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Windows-v1.19.zip">QuantumFieldSimulator-Windows-v1.19.zip</a> |
-| MacOS    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-MacOS-v1.19.zip">QuantumFieldSimulator-MacOS-v1.19.zip</a> |
-| Linux    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Linux-v1.19.zip">QuantumFieldSimulator-Linux-v1.19.zip</a> |
-
-Source code can be found here <a href="https://github.com/dqnguyen59/QuantumFieldSimulator">https://github.com/dqnguyen59/QuantumFieldSimulator</a>.</br>
-
 
 ### Double-slit simulation
 <img src="https://raw.githubusercontent.com/dqnguyen59/QuantumFieldSimulator/main/images/double_slit.png">
