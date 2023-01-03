@@ -1,5 +1,8 @@
 # Launcher for Quantum Field Simulator
 
+## Introduction
+This is a launcher for Quantum Field Simulator.
+
 ### Download binary files
 | Platform | file          |
 |----------|---------------|
@@ -7,7 +10,7 @@
 | MacOS    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-MacOS-v1.19.zip">QuantumFieldSimulator-MacOS-v1.19.zip</a> |
 | Linux    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Linux-v1.19.zip">QuantumFieldSimulator-Linux-v1.19.zip</a> |
 
-Source code can be found here <a href="https://github.com/dqnguyen59/QuantumFieldSimulator">https://github.com/dqnguyen59/QuantumFieldSimulator</a>.</br>
+Source code of these binaries can be found at <a href="https://github.com/dqnguyen59/QuantumFieldSimulator">https://github.com/dqnguyen59/QuantumFieldSimulator</a>.</br>
 
 
 ## Introduction
