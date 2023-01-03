@@ -46,12 +46,13 @@ VM arguments "-XstartOnFirstThread" needs to be added in Eclipse.
 </p>
 
 ### Download binary files
-Source code can be found here <a href="https://github.com/dqnguyen59/QuantumFieldSimulator">https://github.com/dqnguyen59/QuantumFieldSimulator</a>.</br>
 | Platform | file          |
 |----------|---------------|
 | Windows  | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Windows-v1.19.zip">QuantumFieldSimulator-Windows-v1.19.zip</a> |
 | MacOS    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-MacOS-v1.19.zip">QuantumFieldSimulator-MacOS-v1.19.zip</a> |
 | Linux    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Linux-v1.19.zip">QuantumFieldSimulator-Linux-v1.19.zip</a> |
+
+Source code can be found here <a href="https://github.com/dqnguyen59/QuantumFieldSimulator">https://github.com/dqnguyen59/QuantumFieldSimulator</a>.</br>
 
 
 ### Double-slit simulation
