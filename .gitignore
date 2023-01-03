@@ -1,3 +1,7 @@
+/target/
+/settings/
+/private/
+
 # Compiled class file
 *.class
 
