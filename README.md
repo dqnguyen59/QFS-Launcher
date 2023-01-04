@@ -10,6 +10,9 @@ This is a launcher for Quantum Field Simulator.
 | MacOS    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-MacOS-v1.19.zip">QuantumFieldSimulator-MacOS-v1.19.zip</a> |
 | Linux    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Linux-v1.19.zip">QuantumFieldSimulator-Linux-v1.19.zip</a> |
 
+Requirements: </br>
+* Download and install Java <a href="https://java.com">https://java.com</a>
+
 Source code of these binaries can be found at <a href="https://github.com/dqnguyen59/QuantumFieldSimulator">https://github.com/dqnguyen59/QuantumFieldSimulator</a>.</br>
 
 ### CPU & GPU Performance for comparison
