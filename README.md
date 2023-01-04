@@ -3,12 +3,12 @@
 ## Introduction
 This is a launcher for Quantum Field Simulator.
 
-### Download binary files
+### Download the latest binary files
 | Platform | file          |
 |----------|---------------|
-| Windows  | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Windows-v1.19.zip">QuantumFieldSimulator-Windows-v1.19.zip</a> |
-| MacOS    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-MacOS-v1.19.zip">QuantumFieldSimulator-MacOS-v1.19.zip</a> |
-| Linux    | <a href="https://github.com/dqnguyen59/QFS-Launcher/blob/main/binary/QuantumFieldSimulator-Linux-v1.19.zip">QuantumFieldSimulator-Linux-v1.19.zip</a> |
+| Windows  | <a href="https://github.com/dqnguyen59/QFSLauncher/blob/v0.1.90/binary/QuantumFieldSimulator-v0.1.90-Windows.zip">QuantumFieldSimulator-v0.1.90-Windows.zip</a> |
+| MacOS    | <a href="https://github.com/dqnguyen59/QFSLauncher/blob/v0.1.90/binary/QuantumFieldSimulator-v0.1.90-MacOS.zip">QuantumFieldSimulator-v0.1.90-MacOS.zip</a> |
+| Linux    | <a href="https://github.com/dqnguyen59/QFSLauncher/blob/v0.1.90/binary/QuantumFieldSimulator-v0.1.90-Linux.zip">QuantumFieldSimulator-v0.1.90-Linux.zip</a> |
 
 Requirements: </br>
 * Download and install Java <a href="https://java.com">https://java.com</a>
