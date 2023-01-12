@@ -20,6 +20,9 @@ qfs.ini
 # log files
 .log
 
+# tmp files
+.tmp
+
 # Mac files
 .DS_Store
 
